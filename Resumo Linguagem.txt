@@ -1,0 +1,3 @@
+C++ é uma linguagem de programação de propósito geral criada em 1979 como uma extensão da linguagem C. Ela foi desenvolvida para adicionar recursos de programação orientada a objetos sem perder a eficiência e o controle de baixo nível característicos da linguagem C.
+
+O C++ é amplamente utilizado no desenvolvimento de sistemas operacionais, jogos, aplicações desktop, sistemas embarcados, bancos de dados, compiladores e aplicações que exigem alto desempenho. Sua principal característica é combinar diferentes paradigmas de programação, incluindo programação procedural, orientada a objetos e genérica.
